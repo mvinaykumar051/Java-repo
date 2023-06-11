@@ -1,0 +1,16 @@
+class Ellipse2
+{
+static double ell()
+{
+final double pi=3.142;
+int a=5;
+int h=2;
+double result=pi*r*r;
+return result;
+}
+public static void main(String[] args)
+{
+int x=ell();
+System.out.println(x);
+}
+} 
